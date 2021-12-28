@@ -1,2 +1,3 @@
-# testing
-for messin around with git
+# Testing
+
+For messinG around with git!
